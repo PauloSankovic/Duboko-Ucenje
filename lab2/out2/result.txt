@@ -1,0 +1,9 @@
+Najveća točnost se ostvaruje kada je lambda (learning rate) jednak 0.001
+
+1e-1:
+Validation accuracy = 97 %
+Validation avg loss = 0.40
+
+1e-3:
+Validation accuracy = 99.22
+Validation avg loss = 0.32

@@ -1,0 +1,12 @@
+1e-1:
+Validation dataset:
+loss >  0.315617, accuracy: 93.0%
+Test dataset:
+loss >  0.298805, accuracy: 93.4%
+
+
+1e-3:
+Validation dataset:
+loss >  0.0336449, accuracy: 98.9%
+Test dataset:
+loss >  0.028683, accuracy: 99.0%
